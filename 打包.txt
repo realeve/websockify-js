@@ -1,0 +1,1 @@
+pkg "./websockify/websockify.js" --targets "latest-win-x86" --out-path ws
